@@ -1,0 +1,16 @@
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\bin\Debug\net10.0-windows\String Basics.exe
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\bin\Debug\net10.0-windows\String Basics.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\bin\Debug\net10.0-windows\String Basics.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\bin\Debug\net10.0-windows\String Basics.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\bin\Debug\net10.0-windows\String Basics.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String_Basics.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\refint\String Basics.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\String Basics.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Basics\String Basics\obj\Debug\net10.0-windows\ref\String Basics.dll
